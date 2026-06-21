@@ -1,0 +1,8 @@
+Mantener un registro minucioso de los cambios en los proyectos de software es de crucial importancia, 
+usando herramientas como Git. Estas tecnologías guardan con gran precisión la suma de cada alteración 
+ocurrida durante el desarrollo. Con esta metodología, los ingenieros pueden detectar errores rapidamente, 
+regresar a versiones pasadas, y saber quien hizo que adiciones.
+
+Además, Git estimula mucho la union y el trabajo en equipo. Permite que varias personas trabajen juntas en 
+lo mismo sin el riesgo inmediato de dañar los datos. Esto también apoya la buena arquitectura, la firmeza y 
+una gestion eficiente de las actualizaciones en todo el camino del proyecto.

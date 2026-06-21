@@ -1,0 +1,5 @@
+Repositorio:Un repositorio es donde todos los archivos y mutaciones de un proyecto habitan. Sirve pa organizar labor y mantinir un historial de los ajustes echos. Puede estar en la maquina o en sitios como GitHub.
+
+Commit:Un commit, mira, es como una foto guardada de los cambios echis en un proyecto. Permite fijar una version specifica del trabajo junto con un escrito para sabe qué cambo.
+
+Push:El tal push se usa pa mandar las mutaciones del repositorio de aqui pa alla, al repositorio que esta lejos. Asi se guarda el proyecto por internet y compartes las novedades con la jente del grupo.
