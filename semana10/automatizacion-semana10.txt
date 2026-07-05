@@ -1,0 +1,11 @@
+Un flujo de automatización en n8n con Telegram puede funcionar de la siguiente manera: el evento que activa el flujo es 
+el registro de una nueva incidencia o causa en la plataforma comunitaria. Cuando este evento ocurre, el sistema ejecuta 
+automáticamente una acción que consiste en enviar una notificación a un canal o grupo de Telegram.
+
+El mensaje que se enviaría a Telegram sería algo como: “Nueva incidencia registrada en la plataforma. Por favor revisa 
+el sistema para más detalles.” Este mensaje permite mantener informados a los coordinadores sin necesidad de ingresar 
+directamente a la aplicación en cada momento.
+
+Por seguridad, no se debe enviar información sensible en estos mensajes. Esto incluye nombres completos de usuarios, 
+documentos de identidad, números de teléfono, direcciones, contraseñas, tokens de acceso o cualquier otro dato privado. 
+De esta forma se protege la privacidad de los usuarios y se evita la exposición de información crítica en canales externos.

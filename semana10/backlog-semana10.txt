@@ -1,0 +1,10 @@
+El proceso de inicio de sesión en una aplicación, un acto fundamental para la seguridad, se encarga de validar la identidad de un individuo. 
+A través de un conjunto de credenciales predefinidas, típicamente un nombre de usuario y una clave secreta, se desbloquea el acceso a las áreas
+ restringidas del sistema. La meta primordial de este mecanismo es constatar la legitimidad del solicitante previo a otorgarle la autoridad 
+ necesaria para interactuar con los recursos de la aplicación. Ciertas secciones de la aplicación, indudablemente, reclaman una barrera 
+ protectora. Esto se debe a que albergan información de carácter confidencial o ejecutan operaciones delicadas que por ninguna razón deben 
+ ser accesibles a cualquier transeúnte digital. La salvaguarda de estas rutas críticas opera como un escudo, impidiendo el acceso no consentido
+  a información sensible, configuraciones específicas o datos internos del sistema. Es imperativo abstenerse de divulgar información sumamente 
+  privada en el ámbito público, tales como las contraseñas de acceso, documentos identificativos, números telefónicos o direcciones residenciales. 
+  Adicionalmente, la protección se extiende a otros elementos cruciales para la seguridad, incluyendo los tokens de autenticación, las llaves de 
+  programación de aplicaciones (APIs) y cualquier otro tipo de dato de carácter sensible, ya sea concerniente a los usuarios o a la propia plataforma.

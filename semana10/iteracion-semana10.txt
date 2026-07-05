@@ -1,0 +1,9 @@
+En esta iteración del proyecto, las dos tareas del backlog que realizaría primero serían registrar una incidencia como
+ciudadano y recibir una alerta en Telegram como coordinador. Estas dos tareas son las más importantes porque representan
+el flujo principal del sistema: la creación de información por parte del usuario y la notificación inmediata para que 
+pueda ser atendida. Sin estas funcionalidades, la plataforma no cumpliría su objetivo de veeduría ni de seguimiento en tiempo real.
+
+Para mí, una tarea está “terminada” cuando cumple con criterios básicos de funcionamiento y calidad. Primero, significa que
+la funcionalidad trabaja correctamente sin errores en los casos principales. Segundo, que ha sido probada y validada para
+asegurar que responde como se espera. Tercero, que el código está guardado y documentado en Git para su control de versiones. 
+Cuarto, que la tarea cumple con lo solicitado en la historia de usuario sin omitir requisitos importantes.
