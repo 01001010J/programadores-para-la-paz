@@ -1,0 +1,6 @@
+La interface de la plataforma sería bien directa y clara para cualquiera que la usase. Arriba o en un sitio central
+ se vería un espacio pa registrar una nueva causa comunitaria, con un lugar pa ponerle título descripción y fecha. 
+ Justo abajo estaría la lista de las causas, o en forma de lista o tarjetas así sería más fácil leerla. Cadas causa 
+ tendría un botón que dice "Apoyar", pa que los usuarios muestren su ayuda rapidísimo. Tambien habria un contador que 
+ ensena cuanta gente ha dado su apoyo a cada causa. Todo estaría hecho con un diseño limpio sin cosas de más y sin
+ mostrar datos personales.

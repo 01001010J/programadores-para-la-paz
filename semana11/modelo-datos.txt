@@ -1,0 +1,25 @@
+Entidad: Usuario
+
+Campos principales:
+
+id
+nombre
+correo electrónico
+contraseña
+rol (ciudadano, coordinador, administrador)
+
+Propósito:
+Almacenar la información de las personas que usan la plataforma, permitiendo autenticación, control de acceso y asignación de permisos según el tipo de usuario.
+
+Entidad: Notificación
+
+Campos principales:
+
+id
+tipo_evento
+mensaje
+fecha
+usuario_destino
+
+Propósito:
+Registrar las alertas o avisos generados por el sistema, como nuevas causas o apoyos, para mantener informados a los usuarios de la plataforma.

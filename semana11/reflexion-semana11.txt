@@ -1,0 +1,10 @@
+Una plataforma de tecnología que fomenta la participación ciudadana precisaba de una base de datos. Esto,
+pues hace posible el guardado y la ordenación de la totalidad de la información de manera estructurada, 
+lo que agiliza su búsqueda y perfeccionamiento. La validación de los usuarios es algo vital, ya que se 
+asegura que cada persona que accede al sistema sea debidamente reconocida y pueda llevar a cabo acciones
+conforme a su nivel de autoridad. Esto contribuye a mantener la supervisión y la transparencia dentro 
+de la plataforma. Junto a ello, la protección de la información es un punto esencial para salvaguardar 
+los datos personales de los usuarios y evitar accesos no permitidos. Sin estas precauciones, la información
+podria verse amenazada o utilizada de forma indebida. Tambien se protege la confianza que los usuarios 
+tienen en el sistema. En conjunto, estos elementos aseguran el correcto funcionamiento, la seguridad y 
+la transparencia de la plataforma.
