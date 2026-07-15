@@ -1,0 +1,8 @@
+Evento que inicia la automatización:
+Cuando una nueva petición es creada y almacenada en el sistema.
+
+Mensaje enviado:
+"Se ha registrado una nueva petición en la plataforma. Revísala y participa apoyando la iniciativa."
+
+Información que no debe compartirse:
+No deben enviarse documentos de identidad, números telefónicos, direcciones, correos electrónicos, datos privados ni información confidencial de los usuarios.

@@ -1,0 +1,9 @@
+Durante este curso comprendí que la tecnología puede facilitar la participación de las personas
+en proyectos y actividades comunitarias. Aprendí que una plataforma digital permite organizar
+mejor las peticiones y registrar los apoyos de forma rápida. También entendí la importancia 
+de proteger la información personal de los usuarios y utilizar únicamente los datos necesarios.
+Conocí cómo funcionan las bases de datos para almacenar información de manera organizada. Además,
+descubrí que herramientas como n8n y Telegram ayudan a automatizar procesos y enviar notificaciones
+sin intervención manual. Todo esto demuestra que la tecnología puede mejorar la comunicación
+entre la comunidad y las organizaciones. Los conocimientos adquiridos me servirán para desarrollar 
+aplicaciones más útiles, seguras y enfocadas en resolver necesidades reales.

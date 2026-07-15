@@ -1,0 +1,11 @@
+Pregunta 1
+Respuesta: Una herramienta sencilla que permite a una comunidad registrar apoyos para una causa y generar una petición oficial.
+
+Pregunta 2
+Respuesta: Transformar la información almacenada en un documento formal que pueda imprimirse o enviarse.
+
+Pregunta 3
+Respuesta: Evitar recopilar y guardar información personal que no sea necesaria.
+
+Pregunta 4
+Respuesta: Enviar avisos automáticos cuando ocurre una acción importante dentro de la plataforma.

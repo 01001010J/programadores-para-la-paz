@@ -1,0 +1,9 @@
+1. Un usuario ingresa a la plataforma y registra una nueva petición indicando el motivo.
+
+2. El sistema almacena la información de la petición en la base de datos.
+
+3. La petición queda disponible para que otros miembros de la comunidad la consulten.
+
+4. Los ciudadanos pueden apoyar la petición y el sistema incrementa automáticamente el contador de apoyos.
+
+5. Al reunir los apoyos necesarios, la plataforma crea un documento PDF con la información de la petición para ser presentado ante la entidad correspondiente.
